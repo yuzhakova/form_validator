@@ -12,7 +12,7 @@ Simple client side form validation. Check required fields length, email and pass
 
 ## Final Product
 
-!["Form Validator"](https://github.com/yuzhakova/form_validator/blob/main/form-validator.png)
+!["Form Validator"](https://raw.githubusercontent.com/yuzhakova/form_validator/main/form-validator.png)
 
 - JavaScript
 - HTML
